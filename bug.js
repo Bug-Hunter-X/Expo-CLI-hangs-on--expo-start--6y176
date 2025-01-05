@@ -1,0 +1,1 @@
+While working on an Expo project, I encountered an issue where the development server wouldn't start correctly.  The CLI would hang indefinitely after running `expo start`. I've checked my network settings, package.json and ensured the app is configured correctly.
